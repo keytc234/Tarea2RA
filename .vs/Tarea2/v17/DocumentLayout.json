@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\9575\\Tarea2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D912FC-03EE-8953-DE3F-F40F08ECE006}|Assembly-CSharp.csproj|c:\\users\\9575\\tarea2\\assets\\scripts\\cambiarescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D912FC-03EE-8953-DE3F-F40F08ECE006}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiarescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D912FC-03EE-8953-DE3F-F40F08ECE006}|Assembly-CSharp.csproj|c:\\users\\9575\\tarea2\\assets\\scripts\\tirar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D912FC-03EE-8953-DE3F-F40F08ECE006}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tirar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CambiarEscena.cs",
+              "DocumentMoniker": "C:\\Users\\9575\\Tarea2\\Assets\\Scripts\\CambiarEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambiarEscena.cs",
+              "ToolTip": "C:\\Users\\9575\\Tarea2\\Assets\\Scripts\\CambiarEscena.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambiarEscena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:00:06.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tirar.cs",
+              "DocumentMoniker": "C:\\Users\\9575\\Tarea2\\Assets\\Scripts\\Tirar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tirar.cs",
+              "ToolTip": "C:\\Users\\9575\\Tarea2\\Assets\\Scripts\\Tirar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tirar.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:39:05.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
